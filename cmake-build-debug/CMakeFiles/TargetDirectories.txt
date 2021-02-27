@@ -1,0 +1,3 @@
+C:/Users/Richard/CLionProjects/ships/cmake-build-debug/CMakeFiles/ships.dir
+C:/Users/Richard/CLionProjects/ships/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Richard/CLionProjects/ships/cmake-build-debug/CMakeFiles/rebuild_cache.dir
